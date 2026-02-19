@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I,m Jiya
+<br>
+Problem-solver at heart — combining full-stack development with a touch of creativity, and cybersecurity fundamentals to build reliable software.
+Also practice Data Structures & Algorithms regularly.
 
-<!--
-**Jiyapanwar/Jiyapanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on full-stack web development projects and exploring creative development.
+- 🌱 I’m currently learning backend optimization, Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on beginner-friendly full-stack or open-source web projects.
+- 💬 Ask me about JavaScript, React, Node.js, MongoDB, REST APIs, GSAP and DSA practice.
+- 📫 How to reach me: [jiyapanwar2424@gmail.com](mailto:jiyapanwar2424@gmail.com)
+- ⚡ Fun fact: I enjoy solving coding problems and turning ideas into real web applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+<br>
+
+
+  
+
