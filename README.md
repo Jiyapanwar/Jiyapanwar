@@ -1,19 +1,39 @@
-# Hi there 👋, I,m Jiya
+# Hi there 👋, I'm Jiya  
+
+**Problem-solver at heart** — combining **full-stack development**, a touch of **creativity**, and **cybersecurity fundamentals** to build reliable software.  
+Also practicing **Data Structures & Algorithms** regularly.
+
+---
+
+- 🔭 **Currently working on:** Full-stack web development projects and exploring creative development  
+- 🌱 **Currently learning:** Backend optimization and Data Structures & Algorithms  
+- 👯 **Looking to collaborate on:** Beginner-friendly full-stack or open-source projects  
+- 💬 **Ask me about:** JavaScript, React, Node.js, MongoDB, REST APIs, GSAP, and DSA  
+- 📫 **Reach me at:** [jiyapanwar2424@gmail.com](mailto:jiyapanwar2424@gmail.com)  
+- ⚡ **Fun fact:** I enjoy solving coding problems and turning ideas into real web applications  
+
+---
+
+## 🛠️ Tech Stack  
 <br>
-Problem-solver at heart — combining full-stack development with a touch of creativity, and cybersecurity fundamentals to build reliable software.
-Also practice Data Structures & Algorithms regularly.
-
-- 🔭 I’m currently working on full-stack web development projects and exploring creative development.
-- 🌱 I’m currently learning backend optimization, Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on beginner-friendly full-stack or open-source web projects.
-- 💬 Ask me about JavaScript, React, Node.js, MongoDB, REST APIs, GSAP and DSA practice.
-- 📫 How to reach me: [jiyapanwar2424@gmail.com](mailto:jiyapanwar2424@gmail.com)
-- ⚡ Fun fact: I enjoy solving coding problems and turning ideas into real web applications.
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
 
-## 🛠️ Tech Stack
-<br>
+---
+
+### 🤝 Let's Connect  
+
+📫 Feel free to reach out: [jiyapanwar2424@gmail.com](mailto:jiyapanwar2424@gmail.com)
+
+---
+
+⭐ Thanks for stopping by — always happy to connect and collaborate!
 
 
-  
 
