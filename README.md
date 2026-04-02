@@ -8,7 +8,7 @@ Also practicing **Data Structures & Algorithms** regularly.
 - 🔭 **Currently working on:** Full-stack web development projects and exploring creative development  
 - 🌱 **Currently learning:** Backend optimization and Data Structures & Algorithms  
 - 👯 **Looking to collaborate on:** Beginner-friendly full-stack or open-source projects  
-- 💬 **Ask me about:** JavaScript, React, Node.js, MongoDB, REST APIs, GSAP, and DSA  
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, Express.js, Next.js, SQL, MongoDB, REST APIs, GSAP, and Data Structures & Algorithms  
 - 📫 **Reach me at:** [jiyapanwar2424@gmail.com](mailto:jiyapanwar2424@gmail.com)  
 - ⚡ **Fun fact:** I enjoy solving coding problems and turning ideas into real web applications  
 
